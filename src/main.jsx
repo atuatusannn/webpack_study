@@ -1,10 +1,10 @@
 import React from "react";
 import "./styles.css";
 
-export const App = () => {
+export const Main = () => {
   return (
     <div className="container">
-      <h1>Hello World</h1>
+      <h1>Hello World Main</h1>
     </div>
   );
 };
